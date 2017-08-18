@@ -2,8 +2,8 @@
 layout: post
 title:  Simplify your goals
 category: declutter 
-description: Instead of spreading yourself thin, why not specialize?
 ---
+
 I cannot be a master of everything, but I can be a Jack of all trades. But this is not helping me anymore. I need to be a master of one or two topics and be “good enough” at several others to make myself a complete package.<!--readmore-->
 
 I have a PhD in engineering, but I love talking, marketing, selling stuff. How do I combine all of these into one awesome product? I need a strong foundation for sure. For example, WhatsApp! It is a great messaging product that is actually very bare-bones. It only does messaging (text + media). What I think sets it apart is solid engineering (it has never crashed on me, or failed even once) and extremely clean design. It has strong fundamentals and no fluff.
