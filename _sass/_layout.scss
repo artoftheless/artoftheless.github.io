@@ -219,8 +219,9 @@ p.readmore {
 }
 
 .article-content a {
-  border-bottom:1px dotted red;
+  border-bottom:1px solid cadetblue;
   text-decoration:none;
+  background-color: lavender;
 }
 .article-content a:hover {
   color:red;
