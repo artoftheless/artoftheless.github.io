@@ -1,111 +1,15 @@
 ---
 layout: post
-title:  Styles at a glance
-category: jekyll 
-description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
+title:  Simplify your goals
+category: declutter 
+description: Instead of spreading yourself thin, why not specialize?
 ---
+I cannot be a master of everything, but I can be a Jack of all trades. But this is not helping me anymore. I need to be a master of one or two topics and be “good enough” at several others to make myself a complete package.<!--readmore-->
 
-Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
+I have a PhD in engineering, but I love talking, marketing, selling stuff. How do I combine all of these into one awesome product? I need a strong foundation for sure. For example, WhatsApp! It is a great messaging product that is actually very bare-bones. It only does messaging (text + media). What I think sets it apart is solid engineering (it has never crashed on me, or failed even once) and extremely clean design. It has strong fundamentals and no fluff.
 
-First of all, let's have a glance at the basic styles: [link](http://github.com/wild-flame/jekyll-simple), **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
+When I think about industry giants, they are solidly grounded in some aspect (either engineering, marketing, economics) and then use that as a base to branch out to other fields — and conquer them. I need my true North that I can turn to whenever I want to. Something I can solidly rely upon.
 
-<!--description-->
+I am (like most people I know), in the tech industry - albeit in a very specialized and niche corner. A fast-moving and vitally important corner. But I find myself drawn to different avenues on a daily basis - mobile development, dynamic visualization, advertising, financial programming and when I look back at everything that I have done in the past 5 years, I realize that I am unfortunately a Jack of several trades and nowhere close to being a master of one. Almost blindly I have avoided looking at my boss’s career trajectory - he was a solid programmer out of school and built upon it and sharpened his knife every single day and now heads an R&D group across 4 countries. He picked up managerial skills along the way, but his true North is his ability to direct any software architectural issue that crops up.
 
-### Headers:
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-### Lists:
-
-- list item 1
-- list item 2
-- list item 3
-
-1. list item 1
-2. list item 2
-3. list item 3
-
-### Blockquote:
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### [BASSCSS](http://www.basscss.com/) colors:
-
-- <span class="black">black</span>
-- <span class="gray">gray</span>
-- <span class="silver">silver</span>
-- <span class="white">white</span>
-- <span class="aqua">aqua</span>
-- <span class="blue">blue</span>
-- <span class="navy">navy</span>
-- <span class="teal">teal</span>
-- <span class="green">green</span>
-- <span class="olive">olive</span>
-- <span class="lime">lime</span>
-- <span class="yellow">yellow</span>
-- <span class="orange">orange</span>
-- <span class="red">red</span>
-- <span class="fuchsia">fuchsia</span>
-- <span class="purple">purple</span>
-- <span class="maroon">maroon</span>
-
-### Horizontal rule:
-
------------------------
-
-### Image:
-
-![]({{site.baseurl}}/assets/img/image.jpg)
-
-### Table:
-
-<table>
-	<thead>
-		<tr>
-			<th>Name</th>
-			<th>Age</th>
-			<th>Fruit</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Alex</td>
-			<td>22</td>
-			<td>Apple</td>
-		</tr>
-		<tr>
-			<td>Bran</td>
-			<td>20</td>
-			<td>Orange</td>
-		</tr>
-		<tr>
-			<td>Mike</td>
-			<td>21</td>
-			<td>Waltermelon</td>
-		</tr>
-	</tbody>
-</table>
-
-### Code snippet
-
-```javascript
-// index.js
-var arr = [1, 2, 3, 4, 5];
-var b = arr.map(x => x * x);
-console.log(b);
-
-function foo(){
-	console.log('foo');
-}
-
-```
+Building a foundation translates to decluttering my focus. I took a long deep look at what subjects I enjoyed studying, at what inspired me during my PhD, what dictated the final shape of my thesis, what’s kept me ticking at work all these years and I came up with a list of 3 skills I need to have and several other nice-to-haves that make me more rounded.
