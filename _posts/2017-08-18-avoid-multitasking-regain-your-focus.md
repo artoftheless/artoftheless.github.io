@@ -6,13 +6,15 @@ category: productivity
 
 I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/) which concluded that multitasking is bad for the brain. At first, this seemed odd to me. But, the more I thought about it and reflected on my own life, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. Very soon, I had a collection of research studies that said the same thing – multitasking isn’t good for you!
 
-Multitasking is bad? Really?
 <!--readmore-->
+
+### Multitasking is bad? Really?
 
 This can come as quite a surprise to most of us who believe that the hallmark of an efficient employee/artisan/worker is the ability to do more than one task at the same time. All of us do it – answering the phone while typing out an email, or answering two calls at the same time, or unfortunately, use our mobile phones while driving, or crossing the street. So why is multitasking bad??
 
 >If you chase two rabbits, you will catch neither one
 >– an old Russian proverb
+
 
 ### Context switching = Loss in productivity
 
@@ -24,7 +26,9 @@ Let’s give this a computer analogy. You are working on task A and you want to 
 
 >Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the time you add a third project to the mix, nearly half your time is wasted in task switching.
 
-### Why do I multitask?
+
+
+## Why do I multitask?
 
 So, I asked myself why I multitask and made a list (not very pretty) –
 
@@ -37,7 +41,10 @@ So, I asked myself why I multitask and made a list (not very pretty) –
 
 Well, #4 can’t be helped most of the time. Sometimes, you have to answer the phone while mixing your baby’s cereal. It could be avoided by asking the person on the other end if you can call them back, but, heck – sometimes you just need to multitask. But, in 80-90% of the cases, multitasking can and must be avoided.
 
-### Here’s my set of solutions to help you curb multitasking –
+
+
+
+## Here’s my set of solutions to help you curb multitasking –
 
 - Well begun is half done: When I look at my list of reasons, I see that scheduling is at the heart of most of the problems. So here’s what I do – every morning I settle down with a cup of tea and plan my day. I don’t micro-schedule, but, look at my day on a macro-level. Which meetings do I have? Do I have any appointments? Any presentations? What tasks do I intend to accomplish? And so on. Why do I love doing this? well, for one, it is quiet and calm early in the morning – no traffic, no TV, and my mind is well rested and this helps me concentrate.
 - macro-level planning helps me get a birds-eye view of my day and prevent any surprises.
