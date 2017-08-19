@@ -4,7 +4,7 @@ title:  Avoid multitasking and regain your focus
 category: productivity 
 ---
 
-I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/) which concluded that multitasking is bad for the brain. At first, this seemed odd to me. But, the more I thought about it and reflected on my own life, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. Very soon, I had a collection of research studies that said the same thing – multitasking isn’t good for you!
+I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/){:target="_blank"} which concluded that multitasking is bad for the brain. At first, this seemed odd to me. But, the more I thought about it and reflected on my own life, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. Very soon, I had a collection of research studies that said the same thing – multitasking isn’t good for you!
 
 <!--readmore-->
 
@@ -22,7 +22,7 @@ What really ends up hurting you while multitasking is "context-switching". By th
 
 Let’s give this a computer analogy. You are working on task A and you want to switch to task B. You first need to save A, close it, open task B, load the data from memory, and figure out what you were doing an hour ago, and resume it. Now, repeat the same procedure every time you want to switch from A to B and vice-versa. It’s not hard to see that your computer is going to hang/crash/overload/burn soon! Now, think of your brain as this computer – it isn’t a pretty picture, is it?
 
-[Jeff Atwood](https://blog.codinghorror.com/) who is a highly respected blogger/entrepreneur, [writes about](https://blog.codinghorror.com/the-multi-tasking-myth/), the price you pay for context switching. Referring to Gerald Weinberg’s [book on quality systems](http://www.geraldmweinberg.com/Site/QSM_vol_1.html), Jeff says the following –
+[Jeff Atwood](https://blog.codinghorror.com/){:target="_blank"} who is a highly respected blogger/entrepreneur, [writes about](https://blog.codinghorror.com/the-multi-tasking-myth/){:target="_blank"}, the price you pay for context switching. Referring to Gerald Weinberg’s [book on quality systems](http://www.geraldmweinberg.com/Site/QSM_vol_1.html){:target="_blank"}, Jeff says the following –
 
 >Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the time you add a third project to the mix, nearly half your time is wasted in task switching.
 
@@ -52,9 +52,9 @@ Caution: don’t go overboard and schedule every waking minute of your day. You 
 - Learn to say no: stop burdening yourself with more than you can handle. And, don’t worry – if you do your job well and stick to your commitments, there is no reason for people to get upset with you when you say no.
 - If you find it hard to concentrate, use the Pomodoro Technique. By working in sprints of 20 mins, you will find it easier to concentrate on just one task without all the distractions and context switching. Slowly increase the time from 20 mins to 40 mins and then to 1 hr, and soon enough you will be a pro at doing one task without getting distracted.
 - Turn off all your email alerts, smart phone alerts, alarms, and work on your task with complete concentration. It could be for just 20 mins – but do it!
-- Give yourself a treat: if you like browsing a particular website, then plan and schedule some time for it. Say, work for 50 mins and relax for 10 mins? All work and no play makes Jack a dull boy 🙂
+- Give yourself a treat: if you like browsing a particular website, then plan and schedule some time for it. Say, work for 50 mins and relax for 10 mins? All work and no play makes Jack a dull boy.
 - Be mindful and deliberate in everything you do. This will take you far when the need to concentrate and focus really comes.
-- And most importantly – calm down, take a deep breath, relax, take a stroll, smell the rain-soaked soil, and take in all the beauty around you! It’s alright – that email can wait three more minutes! It really can 🙂
+- And most importantly – calm down, take a deep breath, relax, take a stroll, smell the rain-soaked soil, and take in all the beauty around you! It’s alright – that email can wait three more minutes! It really can.
 
 I am very curious about how multitasking has helped/affected your personal life and what you’ve done about it. So please let me know in the comments section.
 

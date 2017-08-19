@@ -239,8 +239,12 @@ p.readmore {
   }
 
   .share-link {
-    text-decoration:underline;
-    margin-left:8px;
+    /* text-decoration: underline; */
+    /* background: cornflowerblue; */
+    margin-left: 8px;
+    padding: 4px;
+    border-radius: 5px;
+    color: white;
   }
 
 }
