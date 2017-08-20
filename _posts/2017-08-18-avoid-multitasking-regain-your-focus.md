@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Avoid multitasking and regain your focus
-category: productivity 
+category: productivity
+comments: true
 ---
 
 I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/){:target="_blank"} which concluded that multitasking is bad for the brain. At first, this seemed odd to me. But, the more I thought about it and reflected on my own life, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. Very soon, I had a collection of research studies that said the same thing – multitasking isn’t good for you!
