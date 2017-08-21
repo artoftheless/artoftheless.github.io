@@ -12,5 +12,6 @@ Please send me your name, email, and a brief message and I will get back to you 
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send</button>
+  <input type="hidden" name="_next" value="http://artoftheless.com/" />
 </form>
 </div>
