@@ -22,7 +22,7 @@ Let’s give this a computer analogy. You are working on task A and you want to 
 
 <br> 
 
-> Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the > time you add a third project to the mix, nearly half your time is wasted in task switching.
+> Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the time you add a third project to the mix, nearly half your time is wasted in task switching.
 
 
 ### Why do I multitask?
