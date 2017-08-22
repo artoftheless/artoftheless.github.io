@@ -5,9 +5,9 @@ category: productivity
 comments: true
 ---
 
-I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/){:target="_blank"} which concluded that multitasking is bad for the brain. A few more clicks on Google, and soon enough, I had a collection of research studies that said the same thing – multitasking isn’t good for you! At first, this seemed odd to me. But, the more I reflected on my typical work-day, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. 
+I was reading an article on the internet that referred to a [research study done at Stanford](http://news.stanford.edu/2009/08/24/multitask-research-study-082409/){:target="_blank"} which concluded that multitasking is bad for the brain. A few more clicks on Google, and soon enough, I had a collection of research studies that said the same thing – multitasking isn’t good for you! <!--readmore-->
 
-<!--readmore-->
+At first, this seemed odd to me. But, the more I reflected on my typical work-day, it was pretty obvious that multitasking was bringing down my productivity and was not doing me any good. 
 
 This can come as quite a surprise to most of us who believe that the hallmark of an efficient employee/artisan/worker is the ability to do more than one task at the same time. All of us do it – answering the phone while typing out an email, or answering two calls at the same time, or talking on our phones while driving (very bad), and so on. 
 
@@ -20,9 +20,9 @@ Let’s give this a computer analogy. You are working on task A and you want to 
 <br>
 [Jeff Atwood](https://blog.codinghorror.com/){:target="_blank"} who is a highly respected blogger/entrepreneur, [writes about](https://blog.codinghorror.com/the-multi-tasking-myth/){:target="_blank"}, the price you pay for context switching. Referring to Gerald Weinberg’s [book on quality systems](http://www.geraldmweinberg.com/Site/QSM_vol_1.html){:target="_blank"}, Jeff says the following –
 
-<br>
+<br> 
 
->Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the time you add a third project to the mix, nearly half your time is wasted in task switching.
+> Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the > time you add a third project to the mix, nearly half your time is wasted in task switching.
 
 
 ### Why do I multitask?
