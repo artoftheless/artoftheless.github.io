@@ -15,9 +15,12 @@ This can come as quite a surprise to most of us who believe that the hallmark of
 
 What really ends up hurting you while multitasking is "context-switching". By this, I mean that the human brain needs time and some effort to switch from one task to another. And often, some pieces of information (memory) gets lost while making the switch.
 
-Let’s give this a computer analogy. You are working on task A and you want to switch to task B. You first need to save A, close it, open task B, load the data from memory, and only then start working on task B. This is repeated everytime you switch between A and B! It’s not hard to see that your computer is going to hang/crash/overload/burn soon! *Now, think of your brain as this computer – it isn’t a pretty picture, is it?*
+Let’s give this a computer analogy. You are working on task A and you want to switch to task B. You first need to save A, close it, open task B, load the data from memory, and only then start working on task B. This is repeated everytime you switch between A and B! It’s not hard to see that your computer is going to hang/crash/overload/burn soon! **Now, think of your brain as this computer – it isn’t a pretty picture, is it?**
 
+<br>
 [Jeff Atwood](https://blog.codinghorror.com/){:target="_blank"} who is a highly respected blogger/entrepreneur, [writes about](https://blog.codinghorror.com/the-multi-tasking-myth/){:target="_blank"}, the price you pay for context switching. Referring to Gerald Weinberg’s [book on quality systems](http://www.geraldmweinberg.com/Site/QSM_vol_1.html){:target="_blank"}, Jeff says the following –
+
+<br>
 
 >Even adding a single project to your workload is profoundly debilitating by Weinberg’s calculation. You lose 20% of your time. By the time you add a third project to the mix, nearly half your time is wasted in task switching.
 
