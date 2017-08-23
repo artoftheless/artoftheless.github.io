@@ -28,12 +28,12 @@ You can reach amazing levels of productivity if you follow the Pomodoro techniqu
 - I am able to reach different levels of creativity and focus when I allow myself to think about just one task for 20 mins.
 - the more I get done, the faster I can wrap up my work day, and the faster I can get back to my loving family without work stress or tension.
 
-Robin Sharma says the following:-
+[Robin Sharma](http://www.robinsharma.com/) says the following:-
 > Your billion-dollar ideas don't show up in the middle of dramatic distraction. They show up when you have the business and personal discipline to make space for your creative mind to flourish
 
 Finally, as I wrap up this post, I realize that the ability to sit quietly and concentrate on a single task, uni-dimensionally, without any distractions is somehow lost upon us. I guess, he, who amongst us, conquers his distractions, will end up the winner.
 
-I leave you with the words of Steve Jobs (founder of Apple).
+I leave you with the words of [Steve Jobs (co-founder of Apple)](https://en.wikipedia.org/wiki/Steve_Jobs).
 > "If you just sit and observe, you will see how restless your mind is. If you try to calm it, it only makes it worse, but over time it does calm, and when it does, there's room to hear more subtle things -- that's when your intuition starts to blossom and you start to see things more clearly and be in the present more. Your mind just slows down, and you see a tremendous expanse in the moment. You see so much more than you could see before."
 
 PS: As per the classical Pomodoro technique, the idea is to complete three Pomodoros and then take a longer break (15 mins or so). I find this step a little hard to do considering my work schedule - but I can always find a way to chunk away 20 mins of my time to focus on one task.
