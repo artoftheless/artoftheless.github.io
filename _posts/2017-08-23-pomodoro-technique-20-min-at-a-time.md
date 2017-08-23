@@ -4,9 +4,9 @@ title:  Pomodoro technique - 20 mins at a time
 category: productivity
 comments: true
 ---
-I know for a fact that when I am trying to complete a task, the last thing that I want is someone or something to distract me. But this is not always possible, even if you discount the unavoidable distractions - coworkers, the occasional email, or meeting, your crying baby, etc. I find myself increasingly in a world built upon distractions - smart phone notifications, smart phones, television, internet (and all those viral videos), billion-dollar companies built solely around the messaging apps and the ability to alert your friends that you have a cute dog/cat/baby photo that you want to share.
+I know for a fact that when I am trying to complete a task, the last thing that I want is someone or something to distract me. But this is not always possible, even if you discount the unavoidable distractions - coworkers, the occasional email, or meeting, your crying baby, etc. <!--readmore--> I find myself increasingly in a world built upon distractions - smart phone notifications, smart phones, television, internet (and all those viral videos), billion-dollar companies built solely around the messaging apps and the ability to alert your friends that you have a cute dog/cat/baby photo that you want to share.
 
-Productivity and concentration? Out of the window ...
+## Productivity and concentration? Out of the window ...
 
 I sometimes do an experiment with my mind in which "I" observe "myself" do a task! It sounds bizarre, but if you try it, you'll see that it actually works. I observed myself doing a task and it went like this:  I was writing down the steps of an algorithm paper, and suddenly my phone vibrated - a new WhatsApp message. And my mind is programmed to check it. I know it is! I opened the message, replied, forwarded it and locked my phone's screen and returned to my desk. Wait .. what was I doing? Oh yeah, an algorithm? Hmm.. what were the constraints again? Oh man .. I had lost my short-term memory completely by getting distracted.
 
@@ -15,7 +15,7 @@ the day? I know I can't lock myself up for 5 hours -- my job just doesn't allow 
 
 Well, after a lot of experimentation, I have arrived at the best solution (in my opinion) to getting work done in a timely manner. It is the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) devised by  Francesco Cirillo in the 1980s. Pomodoro means "tomato" in Italian and Francesco used a tomato-shaped kitchen timer and that's why he named this the Pomodoro Technique!
 
-##Here is how the Pomodoro technique works:
+## Here is how the Pomodoro technique works:
 - Get a timer (it could be your smartphone, a watch, kitchen timer, or even a sand clock).
 - Decide what you are going to accomplish and make sure you have your tools ready. This could be your laptop, books, stationery, etc.
 - Set your timer to 20 mins (or 25, but I prefer 20 mins).
