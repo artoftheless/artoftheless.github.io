@@ -28,5 +28,4 @@ Starting today, I am going to spend as much time as I can on observing my breath
 
 I really need to understand and experience the power of the breath. This is my current goal in my spirital journey. I'll update this blog with my journey. Any tips and suggestions are welcome. 
 
-Thanks for dropping by. 
-*achyuta anantha govinda*
+Thanks for dropping by. See you next time. 
