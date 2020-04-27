@@ -7,7 +7,9 @@ comments: true
 
 Today being Sunday, I had a bit of time on my hands and I decided to re-think how my I spend my time and come up with a plan of action for the month of May (coming up soon – right?).
 
-I looked back at the last couple of months and things seem to be a blur. With the Corona virus causing havoc throughout the world, people out of work, stranded in foreign lands, no sense of livelihood, don’t know how or where the next pay-check is going to come from, I realized that we are at a turning point in our lives.
+I looked back at the last couple of months and things seem to be a blur. <!--readmore-->
+
+With the Corona virus causing havoc throughout the world, people out of work, stranded in foreign lands, no sense of livelihood, don’t know how or where the next pay-check is going to come from, I realized that we are at a turning point in our lives.
 
 **A fork in the road as they say.**
 
