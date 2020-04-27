@@ -31,7 +31,7 @@ So, I asked myself why I multitask and here are my top reasons ..
 - procrastination : I wasted time earlier, and now I have to cram a lot of tasks in the little time I have left.
 - I forgot about a task and its due soon.
 - I promised too much and now I have to deliver.
-- just plan bored!
+- just bored!
 
 But sometimes, I found that multitasking is inevitable – you have a family that you need to take of and a demanding career. Kids, career, work pressure, etc., etc. -- it feels as though 24 hours in a day aren’t enough!
 
@@ -42,7 +42,11 @@ I sat and thought hard about it and I realized that though I cannot ignore my fa
 - **Plan, plan, plan** : Every morning I settle down with a cup of tea and plan my day. I write down a list of things that I need to get done : meetings that I need to go to, emails that need attention, code that needs to be written, etc. On a subconscious level, I have my day mapped out and I can handle surprises much more easily.  
 - **Pomodoro Technique** : By working in sprints of 20 mins, you will find it easier to concentrate on just one task without all the distractions and context switching.
 - **Unplug** : Turn off all your email alerts, smart phone alerts, alarms, and work on your task with complete concentration. It could be for just 20 mins – but do it!
-- **Say no**  : I have learned to say "no" - politely with cause. There is no reason to burden myself with more than I can handle. That way, I don't make promises that I cannot keep!
+- **Say no**  : I have learned to say "no" - politely with cause. There is no reason to burden myself with more than I can handle. That way, I don't make promises that I cannot keep! And the side benefit is that people understand that they can't take advantage of me.
+
+### How about you?
 
 I am very curious about how multitasking has helped/affected your personal life and what you’ve done about it. So please let me know in the comments section.
+
+Until next time, live in love and blessings! 
 
