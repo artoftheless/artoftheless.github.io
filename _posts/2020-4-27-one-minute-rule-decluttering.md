@@ -5,11 +5,11 @@ category: decluttering
 comments: true
 ---
 
-### I don’t have much time to declutter … do you?
-
 The biggest problem in organizing and decluttering is the lack of time. People call me a slacker and tell me that I’m just lazy. But, frankly, sometimes there isn’t enough time. The pressures of work, commuting, chores, family, friends, etc. leave you tired at the end of the day.<!--readmore-->
 
 And, the weekends are filled with socializing, laundry, grocery shopping, etc. leaving no time for that much needed cleaning session. It’s a fact of life!
+
+### I don’t have much time to declutter … do you?
 
 So what can you do to stay on top of things and prevent your house from looking like a scene from a doomsday movie? Well, it turns out that there is a simple and highly efficient tool (magic wand, really) that will help you do just that – keep a tidy and organized home.
 
