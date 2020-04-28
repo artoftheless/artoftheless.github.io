@@ -5,15 +5,9 @@ title: Art of the Less
 
 <div class="home">
   <div class="post-list">
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
     
     
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:100 %}
 
     <article class="post_card post">
       <header class="post_header">
@@ -21,7 +15,6 @@ title: Art of the Less
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
       <div class="post_excerpt">
-        <!--
         <p>
           {% if post.description %}
           {{ post.description}}
@@ -30,7 +23,6 @@ title: Art of the Less
           {% endif %} 
           <a class="read-more" style="color: royalblue; text-decoration: underline;" href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>
         </p> 
-        -->
       </div>
       <footer class="post_meta">
         {% if post.location %}
